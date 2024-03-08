@@ -1,4 +1,5 @@
-# PHP2-Practice1
+# PHP2-Practice1 and Practice2
+# Agum and Valmoria
 
 Practice Set 01: Improve the code inside file.php by applying the following best practices:
 - Descriptive Function name
@@ -7,6 +8,8 @@ Practice Set 01: Improve the code inside file.php by applying the following best
 - Add Doc-style documentation
 - Parameter type documentation
 - Return type documentation
+
+Practice Set 02:
 
 
 
